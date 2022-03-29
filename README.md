@@ -20,4 +20,4 @@ Due to these improvements, the average runtime for the blob analysis algorithm d
 The aforementioned paper going into further detail on the functionality, application, and making of COSMOS can be found at the link below.
 https://www.biorxiv.org/content/10.1101/2022.02.28.482368v1.full 
 
-Many thanks to the DeepCell team for allowing me to be a part of this project, no matter how small my role.
+Many thanks to the DeepCell team for allowing me to be a part of this project.
