@@ -1,4 +1,4 @@
-# DeepCell-Bio-Internship-Review
+# Internship-Project-At-DeepCell-Bio
 ### A brief detailing of the relevant work I did at DeepCell Bio.
 
 <a href="url"><img src="https://media-exp1.licdn.com/dms/image/C5622AQHCoo6f6pEbiQ/feedshare-shrink_2048_1536/0/1646788805617?e=1651104000&v=beta&t=nWuWp3gsjSsoi1wMX10p5sdSbjlh1sEI4Z-J_0juoiM" height="600"></a>
@@ -19,3 +19,5 @@ Due to these improvements, the average runtime for the blob analysis algorithm d
 
 The aforementioned paper going into further detail on the functionality, application, and making of COSMOS can be found at the link below.
 https://www.biorxiv.org/content/10.1101/2022.02.28.482368v1.full 
+
+Many thanks to the DeepCell team for allowing me to be a part of this project, no matter how small my role.
