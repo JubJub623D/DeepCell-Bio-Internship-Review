@@ -3,9 +3,7 @@
 
 <a href="url"><img src="https://media-exp1.licdn.com/dms/image/C5622AQHCoo6f6pEbiQ/feedshare-shrink_2048_1536/0/1646788805617?e=1651104000&v=beta&t=nWuWp3gsjSsoi1wMX10p5sdSbjlh1sEI4Z-J_0juoiM" height="600"></a>
   
-Recently, biotech startup DeepCell Bio put out this paper, detailing the process of creating and the specifications of their COSMOS project. COSMOS classifies and sorts cells by their morphology using non-intrusive high-speed imaging and image analysis, based on deep machine learning.  
-
-https://www.biorxiv.org/content/10.1101/2022.02.28.482368v1.full 
+Recently, biotech startup DeepCell Bio put out a paper(linked at the bottom of this README), detailing the process of creating and the specifications of their COSMOS project. COSMOS classifies and sorts cells by their morphology using non-intrusive high-speed imaging and image analysis, based on deep machine learning.  
 
 Since these live cells are moving through a microscopic tube at high speeds, the time between the point at which an image of the cell is captured and the point at the cell needs to be sorted is extremely small. Due to the irregular shape of the cells, traditional image processing frameworks fall short of expectations.  Thus, I was assigned the responsibility of porting an in-house Python blob detection library to C to optimize for runtime. 
 
@@ -17,3 +15,5 @@ In order to further optimize for time, I integrated OpenMP into the port to util
 
 Due to these improvements, the average runtime for the blob analysis algorithm dropped to less than half a millisecond on average, which was more than fast enough to meet the demands of COSMOS's first iteration.
 
+The aforementioned paper going into further detail on the functionality, application, and making of COSMOS can be found at the link below.
+https://www.biorxiv.org/content/10.1101/2022.02.28.482368v1.full 
