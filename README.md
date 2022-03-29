@@ -2,6 +2,7 @@
 ### A brief detailing of the relevant work I did at DeepCell Bio.
 
 <a href="url"><img src="https://media-exp1.licdn.com/dms/image/C5622AQHCoo6f6pEbiQ/feedshare-shrink_2048_1536/0/1646788805617?e=1651104000&v=beta&t=nWuWp3gsjSsoi1wMX10p5sdSbjlh1sEI4Z-J_0juoiM" height="600"></a>
+
 (Image source: https://www.linkedin.com/posts/euanashley_after-5-years-of-development-starting-in-activity-6907132880326152192-3Asc?utm_source=linkedin_share&utm_medium=member_desktop_web) 
  
 Recently, biotech startup DeepCell Bio put out a paper(linked at the bottom of this README), detailing the process of creating and the specifications of their COSMOS project. COSMOS classifies and sorts cells by their morphology using non-intrusive high-speed imaging and image analysis, based on deep machine learning.  
